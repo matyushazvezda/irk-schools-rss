@@ -130,8 +130,8 @@ def main():
 
     rss_bytes = make_rss(
         dedup[:300],  # ограничим объём
-        out_title="Новости школ Иркутска (агрегатор)",
-        out_link="https://github.com/"
+        out_title="Новости школ Иркутска",
+        out_link="https://eduirk.ru/"
     )
 
     with open("docs/schools.xml", "wb") as f:
