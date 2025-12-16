@@ -1,2 +1,10 @@
 Лицей №3|https://irklyc3.gosuslugi.ru/roditelyam-i-uchenikam/novosti/
 СОШ №76|https://school76.gosuslugi.ru/roditelyam-i-uchenikam/novosti/
+ОК Крылья|https://sh34-irkutsk-r138.gosweb.gosuslugi.ru/roditelyam-i-uchenikam/novosti/
+Гимназия №2|https://gm2-irk.gosuslugi.ru/roditelyam-i-uchenikam/novosti/
+СОШ №77|https://school77irk.gosuslugi.ru/roditelyam-i-uchenikam/novosti/
+СОШ №1|https://sh1-irkutsk-r138.gosweb.gosuslugi.ru/roditelyam-i-uchenikam/novosti/
+СОШ №17|https://sh17-irkutsk-r138.gosweb.gosuslugi.ru/roditelyam-i-uchenikam/novosti/
+Лицей №1|https://irk-lic1.gosuslugi.ru/roditelyam-i-uchenikam/novosti/
+Лицей №2|https://lic2irk.gosuslugi.ru/roditelyam-i-uchenikam/novosti/
+СОШ №55|https://55school-irk.gosuslugi.ru/roditelyam-i-uchenikam/novosti/
