@@ -7,7 +7,7 @@ from xml.etree.ElementTree import Element, SubElement, tostring
 HEADERS = {"User-Agent": "Mozilla/5.0"}
 TIMEOUT = 25
 
-ARTICLE_RE = re.compile(r"/roditelyam-i-uchenikam/novosti/novosti_\\d+\\.html$")
+ARTICLE_RE = re.compile(r"/roditelyam-i-uchenikam/novosti/novosti_\d+\.html$")
 
 def abs_url(base, href):
     if href.startswith("http"):
