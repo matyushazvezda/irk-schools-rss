@@ -42,21 +42,47 @@ def make_rss(items, out_title, out_link):
 
     return b'<?xml version="1.0" encoding="UTF-8"?>\n' + tostring(rss, encoding="utf-8")
 
-def parse_article(article_url):
+def parse_article(article_url, school_name):
     html_doc = fetch(article_url)
     soup = BeautifulSoup(html_doc, "html.parser")
 
-    # Часто заголовок в <h1>
     title = first_text(soup.find("h1")) or "Новость"
-    # Описание: первые ~300 символов текста статьи
-    main = soup.find("article") or soup.find("main") or soup.body
-    text = first_text(main)
-    desc = (text[:300] + "…") if len(text) > 300 else text
+
+    # Берём ближайший "крупный" контейнер вокруг H1 (обычно без шапки/меню)
+    h1 = soup.find("h1")
+    container = h1
+    for _ in range(10):
+        if not container:
+            break
+        txt = first_text(container)
+        if len(txt) > 250:   # порог можно менять
+            break
+        container = container.parent
+
+    if not container:
+        container = soup.find("main") or soup.body
+
+    # Удаляем хлебные крошки (если присутствуют)
+    for sel in [".breadcrumb", "nav[aria-label='breadcrumb']", "ol.breadcrumb", "ul.breadcrumb", ".gw-breadcrumbs"]:
+        for el in container.select(sel):
+            el.decompose()
+
+    text = first_text(container)
+
+    # + подпись школы в начале (см. пункт 3)
+    desc = f"{school_name}: {text}"
+
+    # Увеличить длину (см. пункт 2)
+    LIMIT = 800
+    desc = (desc[:LIMIT] + "…") if len(desc) > LIMIT else desc
 
     return {"title": title, "link": article_url, "description": desc, "pubDate": None}
 
 def parse_school_news_list(list_url, per_school=2):
-    base = "https://" + list_url.split("/")[2]
+    host = list_url.split("/")[2]
+    base = "https://" + host
+    school_name = host  # минимум: домен; позже можно заменить на красивое имя
+
     html_doc = fetch(list_url)
     soup = BeautifulSoup(html_doc, "html.parser")
 
@@ -66,7 +92,6 @@ def parse_school_news_list(list_url, per_school=2):
         if ARTICLE_RE.search(href):
             links.append(abs_url(base, href))
 
-    # уникализируем, берём первые N
     uniq = []
     for u in links:
         if u not in uniq:
@@ -75,12 +100,13 @@ def parse_school_news_list(list_url, per_school=2):
     items = []
     for u in uniq[:per_school]:
         try:
-            items.append(parse_article(u))
-            time.sleep(0.3)  # чуть мягче к сайтам
+            items.append(parse_article(u, school_name=school_name))
+            time.sleep(0.3)
         except Exception:
             continue
 
     return items
+
 
 def main():
     with open("schools.txt", "r", encoding="utf-8") as f:
