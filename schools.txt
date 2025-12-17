@@ -1,10 +1,73 @@
-Лицей №3|https://irklyc3.gosuslugi.ru/roditelyam-i-uchenikam/novosti/
-СОШ №76|https://school76.gosuslugi.ru/roditelyam-i-uchenikam/novosti/
-ОК Крылья|https://sh34-irkutsk-r138.gosweb.gosuslugi.ru/roditelyam-i-uchenikam/novosti/
-Гимназия №2|https://gm2-irk.gosuslugi.ru/roditelyam-i-uchenikam/novosti/
-СОШ №77|https://school77irk.gosuslugi.ru/roditelyam-i-uchenikam/novosti/
-СОШ №1|https://sh1-irkutsk-r138.gosweb.gosuslugi.ru/roditelyam-i-uchenikam/novosti/
-СОШ №17|https://sh17-irkutsk-r138.gosweb.gosuslugi.ru/roditelyam-i-uchenikam/novosti/
 Лицей №1|https://irk-lic1.gosuslugi.ru/roditelyam-i-uchenikam/novosti/
-Лицей №2|https://lic2irk.gosuslugi.ru/roditelyam-i-uchenikam/novosti/
+Лицей ИГУ|https://liguirk.gosuslugi.ru/roditelyam-i-uchenikam/novosti/
+Гимназия №2|https://gm2-irk.gosuslugi.ru/roditelyam-i-uchenikam/novosti/
+СОШ № 2|https://irkmou2.gosuslugi.ru/roditelyam-i-uchenikam/novosti/
+СОШ № 4|https://sh4-irkutsk-r138.gosweb.gosuslugi.ru/roditelyam-i-uchenikam/novosti/
+СОШ № 5|https://sh5-irkutsk-r138.gosweb.gosuslugi.ru/roditelyam-i-uchenikam/novosti/
+СОШ № 6|https://sh6-irkutsk-r138.gosweb.gosuslugi.ru/roditelyam-i-uchenikam/novosti/
+СОШ № 18|https://school18-irkutsk.gosuslugi.ru/roditelyam-i-uchenikam/novosti/
+СОШ № 19|https://sosh19irk.gosuslugi.ru/roditelyam-i-uchenikam/novosti/
+СОШ № 24|https://sh24-irkutsk-r138.gosweb.gosuslugi.ru/roditelyam-i-uchenikam/novosti/
+СОШ № 28|https://school28irk.gosuslugi.ru/roditelyam-i-uchenikam/novosti/
+СОШ № 35|https://sh35-irkutsk-r138.gosweb.gosuslugi.ru/roditelyam-i-uchenikam/novosti/
+СОШ № 46|https://sh46-irkutsk-r138.gosweb.gosuslugi.ru/roditelyam-i-uchenikam/novosti/
 СОШ №55|https://55school-irk.gosuslugi.ru/roditelyam-i-uchenikam/novosti/
+СОШ № 63|https://sh63-irkutsk-r138.gosweb.gosuslugi.ru/roditelyam-i-uchenikam/novosti/
+СОШ № 64|https://sch64irk.gosuslugi.ru/roditelyam-i-uchenikam/novosti/
+СОШ № 71|https://sh71-irkutsk-r138.gosweb.gosuslugi.ru/
+СОШ № 75|https://sch75irk.gosuslugi.ru/roditelyam-i-uchenikam/novosti/
+СОШ №77|https://school77irk.gosuslugi.ru/roditelyam-i-uchenikam/novosti/
+СОШ №80|https://sh80irk.gosuslugi.ru/roditelyam-i-uchenikam/novosti/
+Гимназия №3|https://gymn3irk.gosuslugi.ru/roditelyam-i-uchenikam/novosti/
+ВСОШ №1|https://sh-vsm1-irkutsk-r138.gosweb.gosuslugi.ru/roditelyam-i-uchenikam/novosti/
+Школа-интернат 13|https://sh-int13-irkutsk-r138.gosweb.gosuslugi.ru/roditelyam-i-uchenikam/novosti/
+СОШ № 7|https://sh7-irkutsk-r138.gosweb.gosuslugi.ru/roditelyam-i-uchenikam/novosti/
+СОШ № 12|school12irk.gosuslugi.ru/roditelyam-i-uchenikam/novosti/
+СОШ № 29|https://sch29-irk.gosuslugi.ru/roditelyam-i-uchenikam/novosti/
+СОШ № 30|https://sh-30-irkutsk.gosuslugi.ru/roditelyam-i-uchenikam/novosti/
+ОК Крылья|https://sh34-irkutsk-r138.gosweb.gosuslugi.ru/roditelyam-i-uchenikam/novosti/
+СОШ № 36|https://sh36-irkutsk-r138.gosweb.gosuslugi.ru/
+СОШ № 37|https://sh37-irkutsk-r138.gosweb.gosuslugi.ru/
+СОШ № 38|https://sh38-irkutsk-r138.gosweb.gosuslugi.ru/roditelyam-i-uchenikam/novosti/
+СОШ № 40|https://irkschool40.gosuslugi.ru/roditelyam-i-uchenikam/novosti/
+СОШ № 42|https://school42irk.gosuslugi.ru/roditelyam-i-uchenikam/novosti/
+СОШ № 43|https://school43irk.gosuslugi.ru/roditelyam-i-uchenikam/novosti/
+СОШ № 45|https://sh45-irkutsk-r138.gosweb.gosuslugi.ru/roditelyam-i-uchenikam/novosti/
+СОШ № 49|https://s49irk.gosuslugi.ru/roditelyam-i-uchenikam/novosti/
+СОШ № 53|https://sch53-irk.gosuslugi.ru/roditelyam-i-uchenikam/novosti/
+СОШ № 57|https://school57irk.gosuslugi.ru/roditelyam-i-uchenikam/novosti/
+СОШ № 67|https://sh67-irkutsk-r138.gosweb.gosuslugi.ru/roditelyam-i-uchenikam/novosti/
+OОШ № 68|https://school68irk.gosuslugi.ru/roditelyam-i-uchenikam/novosti/
+СОШ № 69|https://sh69-irkutsk-r138.gosweb.gosuslugi.ru/roditelyam-i-uchenikam/novosti/
+ЦО 10|https://co10-irk.gosuslugi.ru/roditelyam-i-uchenikam/novosti/
+СОШ № 14|https://mbou14irk.gosuslugi.ru/roditelyam-i-uchenikam/novosti/
+СОШ № 16|https://sh16-irkutsk-r138.gosweb.gosuslugi.ru/roditelyam-i-uchenikam/novosti/
+СОШ № 21|https://mbou21.gosuslugi.ru/roditelyam-i-uchenikam/novosti/
+СОШ № 22|https://irk-school22.gosuslugi.ru/roditelyam-i-uchenikam/novosti/
+СОШ № 23|https://sh23-irkutsk-r138.gosweb.gosuslugi.ru/roditelyam-i-uchenikam/novosti/
+СОШ № 26|https://sh26irk.gosuslugi.ru/roditelyam-i-uchenikam/novosti/
+СОШ № 27|https://sh27-irkutsk-r138.gosweb.gosuslugi.ru/roditelyam-i-uchenikam/novosti/
+СОШ № 32|https://school32irk.gosuslugi.ru/roditelyam-i-uchenikam/novosti/
+СОШ № 39|https://school39irk.gosuslugi.ru/roditelyam-i-uchenikam/novosti/
+Гимназия №44|https://gimn44-irkutsk-r138.gosweb.gosuslugi.ru/roditelyam-i-uchenikam/novosti/
+Гимназия №25|https://gimn25-irkutsk-r138.gosweb.gosuslugi.ru/roditelyam-i-uchenikam/novosti/
+ЦО 47|https://co47irk.gosuslugi.ru/roditelyam-i-uchenikam/novosti/
+СОШ №76|https://school76.gosuslugi.ru/roditelyam-i-uchenikam/novosti/
+Гимназия №1|https://gimn1-irkutsk-r138.gosweb.gosuslugi.ru/roditelyam-i-uchenikam/novosti/
+Лицей №2|https://lic2irk.gosuslugi.ru/roditelyam-i-uchenikam/novosti/
+Лицей №3|https://irklyc3.gosuslugi.ru/roditelyam-i-uchenikam/novosti/
+СОШ №1|https://sh1-irkutsk-r138.gosweb.gosuslugi.ru/roditelyam-i-uchenikam/novosti/
+СОШ №3|https://school3-irk.gosuslugi.ru/roditelyam-i-uchenikam/novosti/
+ООШ №8|https://sh8-irkutsk-r138.gosweb.gosuslugi.ru/roditelyam-i-uchenikam/novosti/
+СОШ № 9|https://sch9irk.gosuslugi.ru/roditelyam-i-uchenikam/novosti/
+СОШ № 10|https://sh10-irkutsk-r138.gosweb.gosuslugi.ru/roditelyam-i-uchenikam/novosti/
+СОШ № 11|https://school11-irkutsk38.gosuslugi.ru/roditelyam-i-uchenikam/novosti/
+СОШ № 15|https://sh15-irkutsk-r138.gosweb.gosuslugi.ru/roditelyam-i-uchenikam/novosti/
+СОШ №17|https://sh17-irkutsk-r138.gosweb.gosuslugi.ru/roditelyam-i-uchenikam/novosti/
+СОШ № 31|https://sh31-irkutsk-r138.gosweb.gosuslugi.ru/roditelyam-i-uchenikam/novosti/
+ОК Лесной|https://sh-lesnoj-irkutsk-r138.gosweb.gosuslugi.ru/roditelyam-i-uchenikam/novosti/
+СОШ № 50|https://school50irk.gosuslugi.ru/roditelyam-i-uchenikam/novosti/
+СОШ № 65|https://65school.gosuslugi.ru/roditelyam-i-uchenikam/novosti/
+СОШ № 66|https://sh66-irkutsk-r138.gosweb.gosuslugi.ru/roditelyam-i-uchenikam/novosti/
+СОШ № 72|https://sh72-irkutsk-r138.gosweb.gosuslugi.ru/roditelyam-i-uchenikam/novosti/
+СОШ № 73|https://sh73-irkutsk-r138.gosweb.gosuslugi.ru/roditelyam-i-uchenikam/novosti/
