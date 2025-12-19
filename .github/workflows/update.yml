@@ -3,7 +3,7 @@ name: Update schools RSS
 on:
   workflow_dispatch:
   schedule:
-    - cron: "0 */6 * * *"   # раз в 6 часов
+    - cron: "0 */8 * * *"   # раз в 8 часов
 
 permissions:
   contents: write
